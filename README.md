@@ -1,6 +1,6 @@
 # Dice-Roll-multiplayer-game-javascript
 A simple version of dice roll game with multiplayer and play with computer feature, User can play with computer in single player mode 
-
+Live Demo - https://distracted-archimedes-18b7f3.netlify.app/
 ### Home Page
 
 ![Dice-Roll-multiplayer-game home page](https://github.com/Rajesh-Royal/Dice-Roll-multiplayer-game-javascript/blob/master/screenshots/1.jpg)
